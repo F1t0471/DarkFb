@@ -1,5 +1,5 @@
 # DarkFb
 
-<center><h1>Menggunakan</h1></center>
+<h1> =>Menggunakan<= </h1>
 <ul>
 <li><code>pkg update && pkg upgrade</code>
