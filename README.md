@@ -1,6 +1,6 @@
 # DarkFb
 
-<h2> =>Menggunakan<= </h2>
+# =>Menggunakan<=
 <ul>
 <li><code>pkg update && pkg upgrade</code></li>
 <li><code>pkg install python2</code></li>
